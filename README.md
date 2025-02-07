@@ -1,5 +1,7 @@
 # Nexa - Análise Avançada de Imagens e Texto com IA na AWS
 
+## Transcrevendo uma Imagem em Texto com AWS Textract
+
 Em uma era dominada por dados, a capacidade de extrair informações valiosas de documentos de forma rápida e precisa é crucial. O Amazon Textract surge como uma solução inovadora, impulsionada por inteligência artificial (IA) e aprendizado de máquina (ML), para transformar a maneira como as empresas lidam com seus documentos.
 
 ## Conceitos Iniciais de OCR
